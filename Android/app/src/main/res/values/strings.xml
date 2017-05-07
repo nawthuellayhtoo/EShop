@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Team2AndroidCA</string>
+    <string name="action_add">Add Item</string>
+    <string name="action_home">Categories</string>
+
+
+    //add
+    <string name="item_name">Item Name</string>
+    <string name="item_desc">Description</string>
+    <string name="item_price">Price</string>
+    <string name="item_seller">Seller Name</string>
+    <string name="item_category">Category</string>
+    <string name="item_status">Status</string>
+
+
+    //detail
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="sold">Sold</string>
+    <string name="available">Available</string>
+
+</resources>
